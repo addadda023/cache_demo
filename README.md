@@ -7,7 +7,9 @@ docker run -d -p 7001:6379 redis
 ```
 
 ### Optional: Redis configuration file.
-/static/redis.conf
+Save redis configuration in a redis.conf file. 
+
+Example redis.conf:
 ```
 maxmemory 2mb
 maxmemory-policy allkeys-lru
