@@ -18,4 +18,4 @@ Start redis server with conf file.
 
 
 ## Run cache demo
-`python3 cache_demo.py`
+`python3 scripts/cache_demo.py`
