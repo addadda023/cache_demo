@@ -6,6 +6,7 @@ docker pull redis
 docker run -d -p 7001:6379 redis
 ```
 
+
 ### Optional: Redis configuration file.
 Save redis configuration in a redis.conf file. 
 
